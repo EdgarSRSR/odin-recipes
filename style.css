@@ -1,0 +1,107 @@
+/**
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+    color: red;
+    font-size: x-large;
+}
+
+.small-para{
+    font-size: small;
+}
+
+.button{
+    font-size: 34px;
+}
+
+.confirm{
+    color: white;
+    font-weight: bolder;
+    background-color:  green;
+}
+
+.cancel{
+    color: black;
+    font-weight: bold;
+    background-color: pink;
+}
+
+.text{
+    color: green;
+    font-size: 2.5em;
+}
+
+.child{
+    font-size: 0.6em;
+    color: red;
+}
+**/
+
+
+
+
+h1 {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+div{
+    align-content: center;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-weight: bold;
+}
+
+.menu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    background-color: yellow;
+}
+
+ul, ol, li{
+    background-color: yellow;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+p a {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 50%;
+}
+
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blueviolet;
+    font-weight: bold;
+    
+}
